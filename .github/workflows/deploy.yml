@@ -39,4 +39,4 @@ jobs:
         with:
           project: "tenakskd-interstella-20"
           entrypoint: "config.js"
-          root: ""
+          root: "npm run"
